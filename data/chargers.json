@@ -1,0 +1,338 @@
+{
+  "_note": "Coordinates are landmark-level (approx. 100-300 m). Operators/connectors are indicative. VERIFY each entry against BEEP portal / Google Maps / PlugShare and fix lat/lng before relying on the 100 m check-in rule.",
+  "chargers": [
+    {
+      "name": "Inorbit Mall EV Charging",
+      "location_name": "Inorbit Mall, Madhapur",
+      "latitude": 17.4352,
+      "longitude": 78.3869,
+      "connector_type": "CCS2 / Type 2 AC",
+      "operator": "Tata Power EZ Charge",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "IKEA Hyderabad EV Charging",
+      "location_name": "IKEA, Raidurg",
+      "latitude": 17.4336,
+      "longitude": 78.3811,
+      "connector_type": "CCS2",
+      "operator": "Statiq",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "HITEC City Cyber Towers Charger",
+      "location_name": "Cyber Towers, HITEC City",
+      "latitude": 17.4506,
+      "longitude": 78.3814,
+      "connector_type": "Bharat AC-001 / Type 2 AC",
+      "operator": "TGREDCO",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Gachibowli Stadium Charger",
+      "location_name": "GMC Balayogi Stadium, Gachibowli",
+      "latitude": 17.444,
+      "longitude": 78.349,
+      "connector_type": "CCS2 / CHAdeMO",
+      "operator": "TGREDCO",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Financial District Charger",
+      "location_name": "Nanakramguda, Financial District",
+      "latitude": 17.4163,
+      "longitude": 78.3427,
+      "connector_type": "CCS2 / Type 2 AC",
+      "operator": "ChargeZone",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "GVK One Mall Charger",
+      "location_name": "GVK One, Banjara Hills",
+      "latitude": 17.4156,
+      "longitude": 78.4487,
+      "connector_type": "CCS2 / Type 2 AC",
+      "operator": "Tata Power EZ Charge",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Jubilee Hills Check Post Charger",
+      "location_name": "Jubilee Hills Check Post",
+      "latitude": 17.4326,
+      "longitude": 78.4071,
+      "connector_type": "CCS2",
+      "operator": "Zeon Charging",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Begumpet Charger",
+      "location_name": "Begumpet Main Road",
+      "latitude": 17.4435,
+      "longitude": 78.4673,
+      "connector_type": "CCS2 / Type 2 AC",
+      "operator": "Statiq",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Secunderabad Station Charger",
+      "location_name": "Secunderabad Railway Station",
+      "latitude": 17.4339,
+      "longitude": 78.5013,
+      "connector_type": "CCS2 / Type 2 AC",
+      "operator": "TGREDCO",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "RGIA Airport Charger",
+      "location_name": "Rajiv Gandhi Intl Airport, Shamshabad",
+      "latitude": 17.2403,
+      "longitude": 78.4294,
+      "connector_type": "CCS2 / CHAdeMO",
+      "operator": "Jio-bp pulse",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Botanical Garden Charger",
+      "location_name": "Botanical Garden, Kondapur",
+      "latitude": 17.4672,
+      "longitude": 78.3645,
+      "connector_type": "Type 2 AC",
+      "operator": "Kazam",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Sarath City Capital Mall Charger",
+      "location_name": "Sarath City Capital Mall, Kondapur",
+      "latitude": 17.461,
+      "longitude": 78.3664,
+      "connector_type": "CCS2 / Type 2 AC",
+      "operator": "Statiq",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Miyapur Metro Charger",
+      "location_name": "Miyapur Metro Station",
+      "latitude": 17.4968,
+      "longitude": 78.3614,
+      "connector_type": "CCS2 / Type 2 AC",
+      "operator": "ChargeZone",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Ameerpet Metro Charger",
+      "location_name": "Ameerpet Metro Station",
+      "latitude": 17.4375,
+      "longitude": 78.4483,
+      "connector_type": "Bharat AC-001 / Type 2 AC",
+      "operator": "TGREDCO",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "LB Nagar Metro Charger",
+      "location_name": "LB Nagar Metro Station",
+      "latitude": 17.3468,
+      "longitude": 78.552,
+      "connector_type": "CCS2 / Type 2 AC",
+      "operator": "Tata Power EZ Charge",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Uppal Stadium Charger",
+      "location_name": "Rajiv Gandhi Intl Cricket Stadium, Uppal",
+      "latitude": 17.401,
+      "longitude": 78.559,
+      "connector_type": "CCS2 / CHAdeMO",
+      "operator": "TGREDCO",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Nampally Charger",
+      "location_name": "Nampally Station Road",
+      "latitude": 17.392,
+      "longitude": 78.469,
+      "connector_type": "Type 2 AC",
+      "operator": "Zeon Charging",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Punjagutta Charger",
+      "location_name": "Punjagutta Junction",
+      "latitude": 17.4256,
+      "longitude": 78.451,
+      "connector_type": "CCS2 / Type 2 AC",
+      "operator": "Jio-bp pulse",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Manikonda Charger",
+      "location_name": "Manikonda Main Road",
+      "latitude": 17.403,
+      "longitude": 78.387,
+      "connector_type": "CCS2",
+      "operator": "Statiq",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Narsingi ORR Charger",
+      "location_name": "Narsingi, Outer Ring Road",
+      "latitude": 17.3917,
+      "longitude": 78.357,
+      "connector_type": "CCS2 / CHAdeMO",
+      "operator": "Jio-bp pulse",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Kukatpally Y Junction Charger",
+      "location_name": "Kukatpally Y Junction",
+      "latitude": 17.4849,
+      "longitude": 78.4138,
+      "connector_type": "CCS2 / Type 2 AC",
+      "operator": "ChargeZone",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Forum Sujana Mall Charger",
+      "location_name": "Forum Sujana Mall, KPHB",
+      "latitude": 17.4933,
+      "longitude": 78.3917,
+      "connector_type": "CCS2 / Type 2 AC",
+      "operator": "Tata Power EZ Charge",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Kompally Charger",
+      "location_name": "Kompally Main Road",
+      "latitude": 17.5405,
+      "longitude": 78.487,
+      "connector_type": "CCS2",
+      "operator": "Jio-bp pulse",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Tarnaka Charger",
+      "location_name": "Tarnaka Junction",
+      "latitude": 17.429,
+      "longitude": 78.53,
+      "connector_type": "Type 2 AC",
+      "operator": "Kazam",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Dilsukhnagar Charger",
+      "location_name": "Dilsukhnagar Bus Stand Area",
+      "latitude": 17.3688,
+      "longitude": 78.5247,
+      "connector_type": "CCS2 / Type 2 AC",
+      "operator": "Zeon Charging",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Mehdipatnam Charger",
+      "location_name": "Mehdipatnam Junction",
+      "latitude": 17.395,
+      "longitude": 78.44,
+      "connector_type": "CCS2 / Type 2 AC",
+      "operator": "Statiq",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "HITEX Charger",
+      "location_name": "HITEX Exhibition Centre, Madhapur",
+      "latitude": 17.472,
+      "longitude": 78.3785,
+      "connector_type": "CCS2 / Type 2 AC",
+      "operator": "ChargeZone",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Bachupally Charger",
+      "location_name": "Bachupally Main Road",
+      "latitude": 17.54,
+      "longitude": 78.36,
+      "connector_type": "CCS2 / Type 2 AC",
+      "operator": "Tata Power EZ Charge",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Warangal Railway Station Charger",
+      "location_name": "Warangal Railway Station",
+      "latitude": 17.972,
+      "longitude": 79.602,
+      "connector_type": "Type 2 AC",
+      "operator": "TGREDCO",
+      "city": "Warangal"
+    },
+    {
+      "name": "Hanamkonda Chowrasta Charger",
+      "location_name": "Hanamkonda Chowrasta",
+      "latitude": 18,
+      "longitude": 79.558,
+      "connector_type": "CCS2 / Type 2 AC",
+      "operator": "Statiq",
+      "city": "Warangal"
+    },
+    {
+      "name": "Kazipet Junction Charger",
+      "location_name": "Kazipet Junction",
+      "latitude": 17.975,
+      "longitude": 79.517,
+      "connector_type": "Bharat AC-001 / Type 2 AC",
+      "operator": "TGREDCO",
+      "city": "Warangal"
+    },
+    {
+      "name": "NIT Warangal Charger",
+      "location_name": "NIT Warangal Campus",
+      "latitude": 17.983,
+      "longitude": 79.532,
+      "connector_type": "CCS2 / Type 2 AC",
+      "operator": "TGREDCO",
+      "city": "Warangal"
+    },
+    {
+      "name": "Kakatiya University Charger",
+      "location_name": "Kakatiya University, Vidyaranyapuri",
+      "latitude": 18.014,
+      "longitude": 79.539,
+      "connector_type": "Type 2 AC",
+      "operator": "TGREDCO",
+      "city": "Warangal"
+    },
+    {
+      "name": "Warangal Fort Charger",
+      "location_name": "Warangal Fort",
+      "latitude": 17.9515,
+      "longitude": 79.5836,
+      "connector_type": "Type 2 AC",
+      "operator": "TGREDCO",
+      "city": "Warangal"
+    },
+    {
+      "name": "Thousand Pillar Temple Charger",
+      "location_name": "Thousand Pillar Temple, Hanamkonda",
+      "latitude": 18.003,
+      "longitude": 79.574,
+      "connector_type": "Type 2 AC",
+      "operator": "TGREDCO",
+      "city": "Warangal"
+    },
+    {
+      "name": "Hunter Road Charger",
+      "location_name": "Hunter Road, Hanamkonda",
+      "latitude": 17.999,
+      "longitude": 79.553,
+      "connector_type": "CCS2 / Type 2 AC",
+      "operator": "Jio-bp pulse",
+      "city": "Warangal"
+    },
+    {
+      "name": "Subedari Charger",
+      "location_name": "Subedari, Hanamkonda",
+      "latitude": 18.005,
+      "longitude": 79.564,
+      "connector_type": "CCS2",
+      "operator": "ChargeZone",
+      "city": "Warangal"
+    }
+  ]
+}

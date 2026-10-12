@@ -1,0 +1,19 @@
+{
+  "name": "chrgr-backend",
+  "version": "1.0.0",
+  "description": "Charger database & REST API backend for Chrgr (Hyderabad + Warangal)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "seed": "node src/seed.js --reset",
+    "sql": "node src/generate-sql.js",
+    "test": "node --test tests/"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "better-sqlite3": "^11.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
