@@ -4,13 +4,18 @@ Backend for **Chrgr**: a database of public EV charging stations in **Hyderabad*
 
 **Stack:** Node.js 18+ · Express 4 · SQLite (`better-sqlite3`)
 
+**Live API:** https://chrgr-backend-adil.onrender.com  
+**Repository:** https://github.com/Adil0226/chrgr-backend-adil
+
+> Free-tier hosting sleeps when idle (first request can take ~30-60 s) and resets check-ins on restart. The curl examples below use `http://localhost:3000`; swap in the live URL to try them against the deployed API.
+
 ---
 
 ## 1. Setup
 
 ```bash
-git clone https://github.com/<your-username>/chrgr-backend-<yourname>.git
-cd chrgr-backend-<yourname>
+git clone https://github.com/Adil0226/chrgr-backend-adil.git
+cd chrgr-backend-adil
 npm install
 npm start            # http://localhost:3000
 ```
