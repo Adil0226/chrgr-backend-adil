@@ -24,8 +24,6 @@ function createApp(db) {
   );
 
   app.get('/chargers', (req, res) => {
-
-  app.get('/chargers', (req, res) => {
     const chargers = svc.listChargers(db, { city: req.query.city });
     res.json({ count: chargers.length, chargers });
   });
