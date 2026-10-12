@@ -9,6 +9,22 @@ function createApp(db) {
 
   app.get('/health', (req, res) => res.json({ status: 'ok' }));
 
+  app.get('/', (req, res) =>
+    res.json({
+      name: 'Chrgr API',
+      status: 'ok',
+      endpoints: [
+        'GET /chargers?city=',
+        'GET /chargers/{id}',
+        'GET /chargers/nearby?lat=&lng=&radius=',
+        'GET /chargers/{id}/reliability',
+        'POST /checkins',
+      ],
+    })
+  );
+
+  app.get('/chargers', (req, res) => {
+
   app.get('/chargers', (req, res) => {
     const chargers = svc.listChargers(db, { city: req.query.city });
     res.json({ count: chargers.length, chargers });
